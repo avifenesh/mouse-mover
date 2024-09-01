@@ -1,0 +1,4 @@
+pyautogui
+keyboard
+types-keyboard
+types-PyAutoGUI
